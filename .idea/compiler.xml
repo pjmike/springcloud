@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-eureka" />
+        <module name="springcloud-eureka-client" />
+        <module name="springcloud-learn-demo" />
+        <module name="springcloud-learn-feign" />
+        <module name="springcloud-learn-hystrix" />
+        <module name="springcloud-learn-turbine" />
+        <module name="springcloud-ribbon" />
+        <module name="srpingcloud-eureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud-eureka" target="1.8" />
+      <module name="springcloud-eureka-client" target="1.8" />
+      <module name="springcloud-learn-demo" target="1.5" />
+      <module name="springcloud-learn-feign" target="1.8" />
+      <module name="springcloud-learn-hystrix" target="1.8" />
+      <module name="springcloud-learn-turbine" target="1.8" />
+      <module name="springcloud-ribbon" target="1.8" />
+      <module name="srpingcloud-eureka" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

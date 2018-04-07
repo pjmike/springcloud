@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/srpingcloud-eureka/springcloud-eureka.iml" filepath="$PROJECT_DIR$/srpingcloud-eureka/springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-client/springcloud-eureka-client.iml" filepath="$PROJECT_DIR$/springcloud-eureka-client/springcloud-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn-demo.iml" filepath="$PROJECT_DIR$/springcloud-learn-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn-feign/springcloud-learn-feign.iml" filepath="$PROJECT_DIR$/springcloud-learn-feign/springcloud-learn-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn-hystrix/springcloud-learn-hystrix.iml" filepath="$PROJECT_DIR$/springcloud-learn-hystrix/springcloud-learn-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn-turbine/springcloud-learn-turbine.iml" filepath="$PROJECT_DIR$/springcloud-learn-turbine/springcloud-learn-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-ribbon/springcloud-ribbon.iml" filepath="$PROJECT_DIR$/springcloud-ribbon/springcloud-ribbon.iml" />
+    </modules>
+  </component>
+</project>
