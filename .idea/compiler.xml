@@ -11,6 +11,7 @@
         <module name="springcloud-learn-demo" />
         <module name="springcloud-learn-feign" />
         <module name="springcloud-learn-hystrix" />
+        <module name="springcloud-learn-hystrix-dashboard" />
         <module name="springcloud-learn-turbine" />
         <module name="springcloud-ribbon" />
         <module name="srpingcloud-eureka" />
@@ -22,6 +23,7 @@
       <module name="springcloud-learn-demo" target="1.5" />
       <module name="springcloud-learn-feign" target="1.8" />
       <module name="springcloud-learn-hystrix" target="1.8" />
+      <module name="springcloud-learn-hystrix-dashboard" target="1.8" />
       <module name="springcloud-learn-turbine" target="1.8" />
       <module name="springcloud-ribbon" target="1.8" />
       <module name="srpingcloud-eureka" target="1.8" />

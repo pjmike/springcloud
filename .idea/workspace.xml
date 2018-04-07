@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39ccf4b4-5466-498b-a10e-48ec5304d811" name="Default" comment="" />
+    <list default="true" id="39ccf4b4-5466-498b-a10e-48ec5304d811" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/srpingcloud-eureka/target/" />
@@ -10,6 +17,7 @@
     <ignored path="$PROJECT_DIR$/springcloud-learn-feign/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-learn-turbine/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-learn-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserFeignClient.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserFeignClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-learn-feign/src/main/java/com/pjmike/feign/UserFeignClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="384">
@@ -50,26 +58,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud-learn-turbine/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="46" column="12" lean-forward="false" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud-ribbon/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="85" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -87,8 +75,38 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-learn-hystrix/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-72">
-              <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+            <state relative-caret-position="288">
+              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="91" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HystrixApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/src/main/java/com/pjmike/hystrix/HystrixApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -127,19 +145,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpringcloudForRibbonApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud-ribbon/src/main/java/com/pjmike/springcloud/SpringcloudForRibbonApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="14" selection-end-column="23" />
-              <folding>
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -152,6 +157,9 @@
   </component>
   <component name="FindBugs-IDEA-Workspace">
     <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -193,6 +201,9 @@
         <option value="$PROJECT_DIR$/springcloud-learn-turbine/src/main/java/com/pjmike/turbine/TurbineApplication.java" />
         <option value="$PROJECT_DIR$/springcloud-learn-turbine/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/springcloud-learn-hystrix/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/src/main/java/com/pjmike/hystrix/HystrixApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -231,10 +242,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -263,114 +275,7 @@
             <path>
               <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-eureka-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-eureka-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-eureka-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-eureka-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-eureka-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
               <item name="springcloud-learn-feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
-              <item name="UserFeignClient.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -380,20 +285,25 @@
             <path>
               <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-learn-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-learn-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-learn-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-learn-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -401,7 +311,7 @@
             <path>
               <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-learn-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -410,66 +320,7 @@
             <path>
               <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hystrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-turbine" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-turbine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-turbine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-turbine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-turbine" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="turbine" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-learn-turbine" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-learn-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -477,71 +328,7 @@
             <path>
               <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-ribbon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="srpingcloud-eureka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="srpingcloud-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="srpingcloud-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-learn-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="srpingcloud-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-learn-turbine" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -586,7 +373,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringcloudForRibbonApplication">
+  <component name="RunManager" selected="Spring Boot.HystrixApplication (1)">
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.pjmike.demo.DemoApplication" />
@@ -598,6 +385,17 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.pjmike.feign.FeignApplication" />
       <module name="springcloud-learn-feign" />
+      <envs />
+    </configuration>
+    <configuration name="HystrixApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.pjmike.hystrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pjmike.hystrix.HystrixApplication" />
+      <module name="springcloud-learn-hystrix-dashboard" />
       <envs />
     </configuration>
     <configuration name="HystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -710,17 +508,19 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="6">
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.DemoApplication" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.SpringcloudApplication" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.FeignApplication" />
       <item index="3" class="java.lang.String" itemvalue="Spring Boot.SpringcloudForRibbonApplication" />
       <item index="4" class="java.lang.String" itemvalue="Spring Boot.TurbineApplication" />
       <item index="5" class="java.lang.String" itemvalue="Spring Boot.HystrixApplication" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.HystrixApplication (1)" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.SpringcloudForRibbonApplication" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.HystrixApplication (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.SpringcloudForRibbonApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -740,40 +540,40 @@
       <workItem from="1522378504362" duration="4479000" />
       <workItem from="1522747647092" duration="5579000" />
       <workItem from="1522831288091" duration="3485000" />
-      <workItem from="1523082740330" duration="10812000" />
+      <workItem from="1523082740330" duration="11955000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41199000" />
+    <option name="totallyTimeSpent" value="42342000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26115704" sideWeight="0.14871016" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.029590288" sideWeight="0.45619833" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.029590288" sideWeight="0.45681062" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.87860394" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.87860394" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289256" sideWeight="0.4939302" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52561986" sideWeight="0.8512898" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.029590288" sideWeight="0.54380167" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.029590288" sideWeight="0.54318935" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58677685" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26479515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26479515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -798,27 +598,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/maven/maven.m2/repository/org/springframework/cloud/spring-cloud-commons/1.3.3.RELEASE/spring-cloud-commons-1.3.3.RELEASE.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClientImportSelector.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/maven/maven.m2/repository/org/springframework/cloud/spring-cloud-commons/1.3.3.RELEASE/spring-cloud-commons-1.3.3.RELEASE.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/maven/maven.m2/repository/org/springframework/cloud/spring-cloud-commons/1.3.3.RELEASE/spring-cloud-commons-1.3.3.RELEASE.jar!/org/springframework/cloud/client/discovery/DiscoveryClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/org.springframework.cloud.netflix.eureka.EurekaDiscoveryClient">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1298,14 +1077,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-learn-hystrix/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
-          <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-learn-feign/src/main/java/com/pjmike/feign/UserFeignClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -1313,6 +1084,38 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-learn-hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="91" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/src/main/java/com/pjmike/hystrix/HystrixApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

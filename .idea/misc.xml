@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/springcloud-learn-feign/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-learn-turbine/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-learn-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/pom.xml" />
       </list>
     </option>
   </component>
