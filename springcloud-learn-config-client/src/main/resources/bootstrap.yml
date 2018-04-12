@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: pjmike-server
+  cloud:
+    config:
+      uri: http://localhost:9090
+      profile: dev
+      label: master

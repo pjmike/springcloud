@@ -8,11 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-eureka" />
         <module name="springcloud-eureka-client" />
+        <module name="springcloud-learn-client-refresh-cloud-bus" />
+        <module name="springcloud-learn-config-client" />
+        <module name="springcloud-learn-config-server" />
         <module name="springcloud-learn-demo" />
         <module name="springcloud-learn-feign" />
+        <module name="springcloud-learn-file-upload" />
         <module name="springcloud-learn-hystrix" />
         <module name="springcloud-learn-hystrix-dashboard" />
         <module name="springcloud-learn-turbine" />
+        <module name="springcloud-learn-zuul" />
         <module name="springcloud-ribbon" />
         <module name="srpingcloud-eureka" />
       </profile>
@@ -20,11 +25,16 @@
     <bytecodeTargetLevel>
       <module name="springcloud-eureka" target="1.8" />
       <module name="springcloud-eureka-client" target="1.8" />
+      <module name="springcloud-learn-client-refresh-cloud-bus" target="1.8" />
+      <module name="springcloud-learn-config-client" target="1.8" />
+      <module name="springcloud-learn-config-server" target="1.8" />
       <module name="springcloud-learn-demo" target="1.5" />
       <module name="springcloud-learn-feign" target="1.8" />
+      <module name="springcloud-learn-file-upload" target="1.8" />
       <module name="springcloud-learn-hystrix" target="1.8" />
       <module name="springcloud-learn-hystrix-dashboard" target="1.8" />
       <module name="springcloud-learn-turbine" target="1.8" />
+      <module name="springcloud-learn-zuul" target="1.8" />
       <module name="springcloud-ribbon" target="1.8" />
       <module name="srpingcloud-eureka" target="1.8" />
     </bytecodeTargetLevel>

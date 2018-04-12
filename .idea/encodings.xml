@@ -2,10 +2,15 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/springcloud-eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-learn-client-refresh-cloud-bus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-learn-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-learn-config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-learn-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-learn-file-upload" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-learn-hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-learn-hystrix-dashboard" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-learn-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-learn-zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-ribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/srpingcloud-eureka" charset="UTF-8" />
   </component>

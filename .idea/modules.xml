@@ -4,11 +4,16 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/srpingcloud-eureka/springcloud-eureka.iml" filepath="$PROJECT_DIR$/srpingcloud-eureka/springcloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-client/springcloud-eureka-client.iml" filepath="$PROJECT_DIR$/springcloud-eureka-client/springcloud-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn-client-refresh-cloud-bus/springcloud-learn-client-refresh-cloud-bus.iml" filepath="$PROJECT_DIR$/springcloud-learn-client-refresh-cloud-bus/springcloud-learn-client-refresh-cloud-bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn-config-client/springcloud-learn-config-client.iml" filepath="$PROJECT_DIR$/springcloud-learn-config-client/springcloud-learn-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn-config-server/springcloud-learn-config-server.iml" filepath="$PROJECT_DIR$/springcloud-learn-config-server/springcloud-learn-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-learn-demo.iml" filepath="$PROJECT_DIR$/springcloud-learn-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-learn-feign/springcloud-learn-feign.iml" filepath="$PROJECT_DIR$/springcloud-learn-feign/springcloud-learn-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn-file-upload/springcloud-learn-file-upload.iml" filepath="$PROJECT_DIR$/springcloud-learn-file-upload/springcloud-learn-file-upload.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-learn-hystrix/springcloud-learn-hystrix.iml" filepath="$PROJECT_DIR$/springcloud-learn-hystrix/springcloud-learn-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/springcloud-learn-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/springcloud-learn-hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-learn-turbine/springcloud-learn-turbine.iml" filepath="$PROJECT_DIR$/springcloud-learn-turbine/springcloud-learn-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-learn-zuul/springcloud-learn-zuul.iml" filepath="$PROJECT_DIR$/springcloud-learn-zuul/springcloud-learn-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-ribbon/springcloud-ribbon.iml" filepath="$PROJECT_DIR$/springcloud-ribbon/springcloud-ribbon.iml" />
     </modules>
   </component>

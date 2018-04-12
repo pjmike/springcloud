@@ -11,6 +11,11 @@
         <option value="$PROJECT_DIR$/springcloud-learn-turbine/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-learn-hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-learn-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-learn-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-learn-file-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-learn-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-learn-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-learn-client-refresh-cloud-bus/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: pjmike-server
+  cloud:
+    config:
+      uri: http://localhost:9090
+      profile: dev
+      label: master
+      discovery:
+        enabled: true
+        service-id: config-server-eureka
+  rabbitmq:
+    host: 36.106.63.214
+    port: 5672
+    username: guest
+    password: guest
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8888/eureka/

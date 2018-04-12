@@ -16,7 +16,7 @@ public class ConsumerController {
     @Autowired
     private RestTemplate restTemplate;
     @HystrixCommand(fallbackMethod = "fallBack")
-    @RequestMapping(value = "/ribbon-consumer", method = RequestMethod.GET)
+    @RequestMapping(value = "/hystrix-demo", method = RequestMethod.GET)
     public String helloConsumer() {
         return restTemplate.getForEntity("http://HELLO-SERVICE/hello", String.class).getBody();
     }
